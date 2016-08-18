@@ -1,0 +1,17 @@
+{
+    "name": "ledger-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Denis Masharov"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ledger-bower.git"
+    },
+    "description": "Ledger font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
